@@ -1,0 +1,1 @@
+Todos os arquivos tiveram seus cabeçalhos excluidos a fim de facilitar a importação no código. Detalhes sobre cada arquivo podem serem encontrados em https://turbulence.oden.utexas.edu/
